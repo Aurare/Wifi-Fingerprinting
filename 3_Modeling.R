@@ -2,8 +2,8 @@
 ##
 ##
 ##
-##  Project Name :
-##  Developer Name :
+##  Project Name :WIFI Fingerprinting
+##  Developer Name :Aurore Paligot
 ##  
 ##  Script Name : 
 ##  Description :
