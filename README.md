@@ -1,4 +1,4 @@
-Wifi - Fingerprinting
+# Wifi - Fingerprinting
 
 Indoor localization system based on WiFi-Fingerprinting
 Ubiqum Project - January 2019
